@@ -1,6 +1,6 @@
  media:
     - name: media
-      input: media
+      input: media111
 
   content:
     - name: posts
